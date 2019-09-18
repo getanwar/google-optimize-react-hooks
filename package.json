@@ -1,6 +1,6 @@
 {
     "name": "google-optimize-react-hooks",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "React Hook for Google Optimize, for better A/B testing",
     "source": "src/index.js",
     "main": "dist/index.js",
