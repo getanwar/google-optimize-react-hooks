@@ -32,4 +32,4 @@ function Home(props) {
 }
 ```
 
-Don't forget to put the [anti-flicker snippet code](https://developers.google.com/optimize/#the_anti-flicker_snippet_code) provided by Google Optimize in <HEAD> section of every page.
+Don't forget to put the [anti-flicker snippet code](https://developers.google.com/optimize/#the_anti-flicker_snippet_code) provided by Google Optimize in `<HEAD>` section of every page.
