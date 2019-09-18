@@ -19,9 +19,9 @@
     },
     "devDependencies": {
         "microbundle": "^0.11.0",
-        "react": "^16.9.0"
+        "react": ">=16.8.0"
     },
     "peerDependencies": {
-        "react": "^16.9.0"
+        "react": ">=16.8.0"
     }
 }
