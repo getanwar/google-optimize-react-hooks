@@ -1,19 +1,5 @@
 import { useEffect, useState, useReducer } from "react";
-
-function loadingReducer(state, action) {
-    if (!action.type) return state;
-    switch (action.type) {
-        case "LOAD_GO":
-            return true;
-
-        case "LOAD_GO_SUCCESS":
-        case "LOAD_GO_FAILURE":
-            return false;
-
-        default:
-            return state;
-    }
-}
+import loadingReducer from "./loading-reducer";
 
 /**
  * Google Optimize Hook

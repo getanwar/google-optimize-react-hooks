@@ -1,10 +1,10 @@
 {
     "name": "google-optimize-react-hooks",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "",
     "source": "src/index.js",
     "main": "dist/index.js",
-    "module": "dist/index.mjs",
+    "module": "dist/index.es.js",
     "unpkg": "dist/index.umd.js",
     "scripts": {
         "build": "microbundle",
