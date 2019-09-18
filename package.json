@@ -1,0 +1,23 @@
+{
+    "name": "google-optimize-react-hooks",
+    "version": "1.0.0",
+    "description": "",
+    "source": "src/index.js",
+    "main": "dist/index.js",
+    "module": "dist/index.mjs",
+    "unpkg": "dist/index.umd.js",
+    "scripts": {
+        "build": "microbundle",
+        "dev": "microbundle watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "microbundle": "^0.11.0",
+        "react": "^16.9.0"
+    },
+    "peerDependencies": {
+        "react": "^16.9.0"
+    }
+}
